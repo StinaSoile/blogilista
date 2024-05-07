@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/StinaSoile/blogilista-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/StinaSoile/blogilista-frontend
+[submodule "testdir"]
+	path = testdir
+	url = https://github.com/StinaSoile/blogilista-testdir
